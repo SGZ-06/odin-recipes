@@ -1,0 +1,1 @@
+Practice HTML Foundations with a favorites recipes project
